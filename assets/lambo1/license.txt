@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lambo Lp670
+* source:	https://sketchfab.com/3d-models/lambo-lp670-1fca4f11077f446bb44ba9c0b4957cc5
+* author:	spider-zip3 (https://sketchfab.com/spider-zip3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lambo Lp670" (https://sketchfab.com/3d-models/lambo-lp670-1fca4f11077f446bb44ba9c0b4957cc5) by spider-zip3 (https://sketchfab.com/spider-zip3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

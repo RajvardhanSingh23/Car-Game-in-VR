@@ -1,0 +1,11 @@
+Model Information:
+* title:	Racing
+* source:	https://sketchfab.com/3d-models/racing-4039d39ab44a4e10a6f62ce33b269395
+* author:	Abhishek walia (https://sketchfab.com/abhisheekwalia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Racing" (https://sketchfab.com/3d-models/racing-4039d39ab44a4e10a6f62ce33b269395) by Abhishek walia (https://sketchfab.com/abhisheekwalia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
